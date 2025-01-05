@@ -1,7 +1,7 @@
-import com.alura.screenmatch.calculos.CalculadoraDeTiempo;
+package com.principal;
+
 import com.alura.screenmatch.calculos.FiltroRecomendacion;
 import com.aluracursos.screenmatch.modelos.Pelicula;
-import com.aluracursos.screenmatch.modelos.Serie;
 
 import java.util.ArrayList;
 
